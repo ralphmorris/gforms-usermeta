@@ -12,7 +12,7 @@
  *	3. Add a unique user_meta key to the Parameter Name field that shows up.
  *	4. Save!
  *
- *  Requires User::class also but can easily be swapped out for WP Core functions.
+ *	Requires User::class also but can easily be swapped out for WP Core functions.
  * 
  */
 
